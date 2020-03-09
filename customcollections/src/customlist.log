@@ -1,0 +1,8 @@
+2020-03-09 22:40:02 INFO  customcollections.ListTest :25 - Items added and removed successfully
+2020-03-09 22:40:02 DEBUG customcollections.ListTest :26 - [this,is,a,sample,list,epam,apple,banana,tennis]
+2020-03-09 22:40:02 WARN  customcollections.ListTest :27 - No warnings in using the custom list
+2020-03-09 22:40:02 ERROR customcollections.ListTest :28 - No errors in using the custom list
+2020-03-09 22:40:02 INFO  customcollections.ListTest :44 - Items added and removed successfully
+2020-03-09 22:40:02 DEBUG customcollections.ListTest :45 - [Simla,Patna,Japan,Kerala,Cochin,Bihar]
+2020-03-09 22:40:02 WARN  customcollections.ListTest :46 - No warnings in using the custom list
+2020-03-09 22:40:02 ERROR customcollections.ListTest :47 - No errors in using the custom list
